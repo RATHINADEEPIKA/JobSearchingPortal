@@ -1,0 +1,18 @@
+.signmain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-image: url('https://res.cloudinary.com/dunzdwo0h/image/upload/v1688981009/bg_qg1uwn.jpg');
+    background-size: cover;
+  }
+  .loginmain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-image: url('https://res.cloudinary.com/dunzdwo0h/image/upload/v1688981009/bg_qg1uwn.jpg');
+    background-size: cover;
+  }
